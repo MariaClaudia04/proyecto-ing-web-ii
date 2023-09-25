@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "f7fa89cc-7d61-43d4-a66e-1b4ca2895881",
+		"name": "PELICULAS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "generos",
+			"item": []
+		},
+		{
+			"name": "TEST",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

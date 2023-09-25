@@ -1,0 +1,21 @@
+{
+  "name": "backend_peliculas",
+  "version": "1.0.0",
+  "description": "API REST Peliculas IUD",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "peliculas",
+    "iudigital",
+    "antioquia"
+  ],
+  "author": "IU Digital de Antioquia",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0"
+  }
+}
